@@ -9,10 +9,8 @@ sites:
     url: https://kilobyte.no
 
 status-website:
-  name: "status.kilobyte.no"
-  baseUrl: /status.kilobyte.no
+  name: "Kilobyte AS - Status"
   logoUrl: https://kilobyte.no/img/kilobyte_logo_dark.svg
-  introTitle: "Kilobyte AS - Status"
   cname: status.kilobyte.no
   navbar:
     - title: Status

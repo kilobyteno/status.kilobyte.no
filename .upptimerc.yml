@@ -9,9 +9,10 @@ sites:
     url: https://kilobyte.no
 
 status-website:
-  name: Kilobyte AS - Uptime
+  name: "status.kilobyte.no"
   baseUrl: /status.kilobyte.no
-  introTitle: "A uptime page for all of our services and websites"
+  logoUrl: https://kilobyte.no/img/kilobyte_logo_dark.svg
+  introTitle: "Kilobyte AS - Status"
   navbar:
     - title: Status
       href: /

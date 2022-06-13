@@ -9,12 +9,6 @@ sites:
     url: https://kilobyte.no
   - name: lanms.net
     url: https://lanms.net
-  - name: pokemon3d.net
-    url: https://pokemon3d.net
-  - name: karp.pokemon3d.net
-    check: "tcp-ping"
-    url: karp.pokemon3d.net
-    port: 15124
 
 status-website:
   name: "Kilobyte AS - Status"

@@ -13,11 +13,12 @@ status-website:
   baseUrl: /status.kilobyte.no
   logoUrl: https://kilobyte.no/img/kilobyte_logo_dark.svg
   introTitle: "Kilobyte AS - Status"
+  cname: status.kilobyte.no
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: kilobyte.no
+      href: https://kilobyte.no
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

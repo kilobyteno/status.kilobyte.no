@@ -10,7 +10,7 @@ sites:
 
 status-website:
   name: Kilobyte AS - Uptime
-  baseUrl: /$REPO
+  baseUrl: /status.kilobyte.no
   introTitle: "A uptime page for all of our services and websites"
   navbar:
     - title: Status

@@ -1,6 +1,5 @@
-# Change these first
-owner: kilobyteno # Your GitHub organization or username, where this repository lives
-repo: status.kilobyte.no # The name of this repository
+owner: kilobyteno
+repo: status.kilobyte.no
 
 assignees: DanielRTRD
 
@@ -20,5 +19,6 @@ status-website:
     - title: kilobyte.no
       href: https://kilobyte.no
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+commitMessages:
+  commitAuthorName: "Daniel S. Billing"
+  commitAuthorEmail: "daniel@kilobyte.no"

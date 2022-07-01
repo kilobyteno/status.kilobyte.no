@@ -8,6 +8,8 @@ sites:
     url: https://kilobyte.no
   - name: lanms.net
     url: https://lanms.net
+  - name: oppe.app
+    url: https://oppe.app
 
 status-website:
   name: "Kilobyte AS - Status"

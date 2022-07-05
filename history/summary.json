@@ -4,9 +4,9 @@
     "url": "https://kilobyte.no",
     "icon": "https://favicons.githubusercontent.com/kilobyte.no",
     "slug": "kilobyte-no",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 863,
     "timeMonth": 823,
     "timeYear": 823,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-05": 0
+    }
   },
   {
     "name": "lanms.net",

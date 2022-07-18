@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/kilobyte.no",
     "slug": "kilobyte-no",
     "status": "up",
-    "uptime": "99.94%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.94%",
-    "time": 822,
-    "timeDay": 903,
-    "timeWeek": 783,
-    "timeMonth": 810,
-    "timeYear": 822,
+    "uptimeYear": "99.95%",
+    "time": 824,
+    "timeDay": 915,
+    "timeWeek": 819,
+    "timeMonth": 816,
+    "timeYear": 824,
     "dailyMinutesDown": {
       "2022-07-05": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 741,
-    "timeDay": 1019,
-    "timeWeek": 817,
-    "timeMonth": 754,
-    "timeYear": 741,
+    "time": 743,
+    "timeDay": 807,
+    "timeWeek": 845,
+    "timeMonth": 759,
+    "timeYear": 743,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 816,
-    "timeWeek": 780,
-    "timeMonth": 795,
-    "timeYear": 795,
+    "time": 796,
+    "timeDay": 821,
+    "timeWeek": 816,
+    "timeMonth": 796,
+    "timeYear": 796,
     "dailyMinutesDown": {}
   }
 ]

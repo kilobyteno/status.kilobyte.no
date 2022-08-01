@@ -4,18 +4,19 @@
     "url": "https://kilobyte.no",
     "icon": "https://favicons.githubusercontent.com/kilobyte.no",
     "slug": "kilobyte-no",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.75%",
     "time": 833,
     "timeDay": 762,
     "timeWeek": 872,
-    "timeMonth": 829,
+    "timeMonth": 837,
     "timeYear": 833,
     "dailyMinutesDown": {
+      "2022-08-01": 1,
       "2022-07-22": 148,
       "2022-07-21": 1,
       "2022-07-05": 27
@@ -26,9 +27,9 @@
     "url": "https://lanms.net",
     "icon": "https://favicons.githubusercontent.com/lanms.net",
     "slug": "lanms-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.79%",
@@ -38,6 +39,7 @@
     "timeMonth": 777,
     "timeYear": 748,
     "dailyMinutesDown": {
+      "2022-08-01": 0,
       "2022-07-22": 148,
       "2022-07-21": 0
     }
@@ -47,7 +49,7 @@
     "url": "https://oppe.app",
     "icon": "https://favicons.githubusercontent.com/oppe.app",
     "slug": "oppe-app",
-    "status": "up",
+    "status": "down",
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -56,9 +58,10 @@
     "time": 796,
     "timeDay": 728,
     "timeWeek": 783,
-    "timeMonth": 796,
+    "timeMonth": 800,
     "timeYear": 796,
     "dailyMinutesDown": {
+      "2022-08-01": 0,
       "2022-07-22": 148,
       "2022-07-21": 0
     }
